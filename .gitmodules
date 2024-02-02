@@ -1,3 +1,15 @@
 [submodule "firstForm"]
 	path = firstForm
 	url = git@github.com:PascalSoentgerath/FirstForm.git
+[submodule "secondForm"]
+	path = secondForm
+	url = git@github.com:PascalSoentgerath/secondForm.git
+[submodule "formControls"]
+	path = formControls
+	url = git@github.com:PascalSoentgerath/FormControls.git
+[submodule "postcardForm"]
+	path = postcardForm
+	url = git@github.com:PascalSoentgerath/PostcardForm.git
+[submodule "stylingForm"]
+	path = stylingForm
+	url = git@github.com:PascalSoentgerath/StylingForm.git
