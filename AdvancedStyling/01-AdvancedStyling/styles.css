@@ -17,3 +17,25 @@ body {
     font-size: 100%;
     padding: 0; margin: 0;
   }
+
+  input[type="search"] {
+    appearance: none;
+    border: 1px solid #333;
+    padding-left: 20px;
+  }
+
+ input[type="search"]:focus,
+ input[type="search"]:hover {
+    outline: 1px solid red;
+  }
+
+ .magnifier {
+    background: url(search-24px.png);
+    background-size: cover;
+    width: 16px;
+    height: 16px;
+
+    position: relative;
+    top: -18px;
+    left: 4px;
+ }
